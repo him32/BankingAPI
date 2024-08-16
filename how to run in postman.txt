@@ -1,0 +1,9 @@
+1.GO TO BODY MENU
+2.SELECT RAW RADIO button
+3.select json
+
+
+{"studentId":1001,"studentName":"codesquadz","studentAddress":"noida"}
+{"id":1002,"firstName":"codesquadz","lastName":"noida","age":40}
+http://localhost:3301/employee/save1
+{"aadhar_card":1001,"account_type":"codesquadz","balance":"465","contact_no":"456","first_name":"jks","gender":"m"}
